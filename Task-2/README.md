@@ -3,7 +3,7 @@
 The **Student Grade Calculator** is a Java program that calculates the total marks, average percentage, and assigns a grade based on the marks obtained in each subject (out of 100). It takes input for the number of subjects and the marks obtained in each subject from the user. The program validates the input and provides results including the total marks, average percentage, and grade. ANSI escape codes are used for text formatting to enhance the user interface.
 
 <div align="center">
-  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="Number Guessing Game Screenshot">
+  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-2/Screenshot%202023-10-09%20222021.png" alt="Number Guessing Game Screenshot">
 </div>
 
 ## Features
