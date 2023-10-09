@@ -1,11 +1,13 @@
 
-<div align="center">
-  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="Number Guessing Game Screenshot">
-</div>
+
 
 <h1>Number Guessing Game<h1>
 
 Welcome to the **Number Guessing Game**, an interactive Java-based game that challenges your guessing skills! Try to guess the secret number within a specified range and compete with your friends to see who can guess it with the fewest attempts.
+
+<div align="center">
+  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="Number Guessing Game Screenshot">
+</div>
 
 ## Table of Contents
 
