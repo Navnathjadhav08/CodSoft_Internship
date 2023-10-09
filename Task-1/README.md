@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="game-screenshot.png" alt="Number Guessing Game Screenshot">
+  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="Number Guessing Game Screenshot">
 </div>
 
 <h1>Number Guessing Game<h1>
