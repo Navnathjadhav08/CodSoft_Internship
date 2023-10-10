@@ -2,6 +2,11 @@
 
 This is a simple ATM (Automated Teller Machine) interface implemented in Java. The program allows users to check their account balance, withdraw money, and deposit money.
 
+
+<div align="center">
+  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="ATM Interface Screenshot">
+</div>
+
 ## Features
 
 - **Check Balance:** Users can check their account balance.
