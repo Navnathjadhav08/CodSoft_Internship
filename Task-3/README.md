@@ -4,7 +4,7 @@ This is a simple ATM (Automated Teller Machine) interface implemented in Java. T
 
 
 <div align="center">
-  <img src="https://github.com/Navnathjadhav08/CodeSoft_Internship/blob/main/Task-1/Screenshot%202023-10-08%20185523.png" alt="ATM Interface Screenshot">
+  <img src="https://github.com/Navnathjadhav08/CodSoft_Internship/blob/main/Task-3/Screenshot%202023-10-10%20233654.png" alt="ATM Interface Screenshot">
 </div>
 
 ## Features
